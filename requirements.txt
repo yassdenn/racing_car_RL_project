@@ -1,0 +1,5 @@
+gymnasium==0.28.1
+stable-baselines==2.0.0
+swig==4.1.1
+pyglet==2.0.9
+
