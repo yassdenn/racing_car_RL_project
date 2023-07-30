@@ -29,7 +29,7 @@ OpenAI Gym's CarRacing-V2: trying to make a car go around a randomly generated r
 
 - Please save it in the directory ./models
 
-- once you have done that, there's no need to run [train_rl_model.ipynb](train_rl_model.ipynb)
+- once you have done that, there's no need to run [train_rl_model-2.ipynb](train_rl_model-2.ipynb): This is where the model was initially trained. The notebook is included for reference only.
 
 - To see the results run all cells in the notebook [project.ipynb](project.ipynb)
 
